@@ -8,7 +8,7 @@
  
  动态网页爬取，爬取网站为 https://news.163.com/
 
-     数据地址百度网盘：https://pan.baidu.com/s/1IzUS9td5xsDB30Mcmczevg 提取码: v9bx 复制这段内容后打开百度网盘手机App，操作更方便哦
+     数据地址百度网盘：https://pan.baidu.com/s/1IzUS9td5xsDB30Mcmczevg 提取码: v9bx 
  
 # 三 更多介绍请关注公众号“NLP炼丹师”
 
